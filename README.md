@@ -1,6 +1,6 @@
-# 💻 All projects
+# 📁 All projects
 
-## 📁 Program on Comand Line Interface
+## 📂 Program on Comand Line Interface
 
 | Project | Description | Year | Link |
 |-----------|---------------------|-------|--------|
