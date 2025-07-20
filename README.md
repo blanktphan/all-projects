@@ -4,8 +4,8 @@
 
 | Project | Description | Year | Link |
 |-----------|---------------------|-------|--------|
-| Blackjack | A stunning console-based Blackjack game built in Python featuring beautiful ASCII art, intuitive gameplay mechanics, and comprehensive statistics tracking. Experience the classic casino game with elegant visual design and smooth user interaction. | 2025 | [Open](https://github.com/blanktphan/python-blackjack) |
-| movie-collections | | 2025 | [Open](https://github.com/blanktphan/movie-collections) |
+| [Python Blackjack CLI](https://github.com/blanktphan/python-blackjack-cli) | A stunning console-based Blackjack game built in Python featuring beautiful ASCII art, intuitive gameplay mechanics, and comprehensive statistics tracking. Experience the classic casino game with elegant visual design and smooth user interaction. | 2025 | [Open](https://github.com/blanktphan/python-blackjack) |
+| [Movie Collection CLI](https://github.com/blanktphan/movie-collections-cli)| | 2025 | [Open](https://github.com/blanktphan/movie-collections) |
 
 You can click [here](./program-on-command-line-interface/) to see more Program on Comand Line Interface projects.
 
